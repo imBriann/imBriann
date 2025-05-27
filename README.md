@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] # 👨‍💻 Sobre mí
+# 👨‍💻 Sobre mí
 
 ¡Hola! Soy estudiante de Ingeniería de Sistemas, actualmente cursando sexto semestre. Me apasiona crear soluciones tecnológicas con impacto real, desde proyectos académicos hasta herramientas útiles para el día a día. Me especializo en desarrollo backend, bots conversacionales, manejo de bases de datos y aplicaciones enfocadas en la educación digital y la ciberseguridad.
 
