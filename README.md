@@ -12,6 +12,32 @@ Estudiante de 9.º semestre de Ingeniería de Sistemas (Universidad de Pamplona)
 
 ---
 
+## 🌐 Mi portafolio
+
+<a href="https://www.brianacevedo.dev">
+  <img src="assets/portfolio-showcase.png" alt="Portafolio de Brian Acevedo en escritorio y móvil" width="100%">
+</a>
+
+<p align="center">
+  <a href="https://www.brianacevedo.dev"><img src="https://img.shields.io/badge/Visitar_portafolio-brianacevedo.dev-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar portafolio"></a>
+  <a href="https://www.brianacevedo.dev/cv/BrianAcevedo-CV.pdf"><img src="https://img.shields.io/badge/Descargar_CV-PDF-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Descargar CV"></a>
+</p>
+
+<p align="center"><sub>Next.js · TypeScript · Tailwind CSS · Framer Motion · bilingüe (ES/EN) · cada proyecto con su expediente y demo en vivo</sub></p>
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://www.brianacevedo.dev/es#projects"><img src="assets/projects-thumb.jpg" alt="Sección de proyectos del portafolio"></a></td>
+    <td width="50%"><a href="https://www.brianacevedo.dev/es/projects/omnegia"><img src="assets/omnegia-thumb.jpg" alt="Expediente de Omnegia en el portafolio"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Proyectos con filtros por categoría</sub></td>
+    <td align="center"><sub>Expediente de cada proyecto: rol, stack y demo</sub></td>
+  </tr>
+</table>
+
+---
+
 ## 🧩 Proyectos destacados
 
 | Proyecto | Qué es | Stack |
